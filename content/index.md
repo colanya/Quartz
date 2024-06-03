@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: 欢迎来到无名小站
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+这是一个基于Quartz的个人主页，主要用于将笔记以双链的形式向朋友分享。
